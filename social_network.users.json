@@ -1,0 +1,142 @@
+[{
+  "_id": {
+    "$oid": "670d5af10f4e6eedfd2c6de4"
+  },
+  "email": "Lili@gmail.com",
+  "password": "2222",
+  "firstName": "Lili",
+  "lastName": "Rose",
+  "interests": [],
+  "friends": [],
+  "followers": [],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "670d6f6e2109c6f563fd963a"
+  },
+  "email": "bella@gmail.com",
+  "password": "1111",
+  "firstName": "Bella",
+  "lastName": "Hadid",
+  "interests": [],
+  "friends": [
+    {
+      "$oid": "670d5af10f4e6eedfd2c6de4"
+    }
+  ],
+  "followers": [],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "670d6fa82109c6f563fd963b"
+  },
+  "email": "john@gmail.com",
+  "password": "3333",
+  "firstName": "John",
+  "lastName": "Wick",
+  "interests": [],
+  "friends": [],
+  "followers": [],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "670d6fd82109c6f563fd963c"
+  },
+  "email": "jane@gmail.com",
+  "password": "4444",
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "interests": [],
+  "friends": [],
+  "followers": [],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "670d6ff72109c6f563fd963d"
+  },
+  "email": "alice@gmail.com",
+  "password": "5555",
+  "firstName": "Alice",
+  "lastName": "Smith",
+  "interests": [],
+  "friends": [],
+  "followers": [],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "670d70212109c6f563fd963e"
+  },
+  "email": "johnson",
+  "password": "6666",
+  "firstName": "Johnson",
+  "lastName": "Bob",
+  "interests": [],
+  "friends": [],
+  "followers": [],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "670d70442109c6f563fd963f"
+  },
+  "email": "charles@gmail.com",
+  "password": "7777",
+  "firstName": "Charles",
+  "lastName": "Brown",
+  "interests": [],
+  "friends": [],
+  "followers": [],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "670d70672109c6f563fd9640"
+  },
+  "email": "emilia@gmail.com",
+  "password": "8888",
+  "firstName": "Emilia",
+  "lastName": "Clark",
+  "interests": [],
+  "friends": [],
+  "followers": [],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "670d70912109c6f563fd9641"
+  },
+  "email": "frank@gmail.com",
+  "password": "9999",
+  "firstName": "Frank",
+  "lastName": "Fox",
+  "interests": [],
+  "friends": [
+    {
+      "$oid": "670d70672109c6f563fd9640"
+    }
+  ],
+  "followers": [],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "670d7487c71d7b4986792cf4"
+  },
+  "email": "tom@gmail.com",
+  "password": "0000",
+  "firstName": "Tom",
+  "lastName": "Hanks",
+  "interests": [],
+  "friends": [
+    {
+      "$oid": "670d5af10f4e6eedfd2c6de4"
+    }
+  ],
+  "followers": [],
+  "following": []
+}]
